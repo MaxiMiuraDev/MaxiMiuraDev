@@ -1,0 +1,46 @@
+header , footer, .redes{
+    background: rgb(57,146,74);
+    background: linear-gradient(243deg, rgba(57,146,74,1) 0%, rgba(98,178,112,1) 100%);
+}
+
+.logo{
+    max-width: 50%;
+    max-height: 50%;
+    width: 4rem;
+    background-size: cover;
+    background-image: url(/images/logo0.png);
+    font-size: 0;
+}
+button{ background-color:rgba(57,146,74,1) ;
+border-radius: 15px;
+content: none;}
+
+#publi {
+    height: 30em;
+}
+
+.card{
+    width: 15em;
+}
+
+#fondo{
+    background: #dad2bc;
+}
+h2 ,h3{ 
+    text-align: center;
+    margin: 2em;
+    font-size: 2em;
+}
+.carta{
+    font-size: 20px;
+}
+iframe {
+   min-width: 30em;
+   height: 20em;
+}
+
+li{
+    margin: 2em;
+   list-style: none;
+    text-align: center;
+}
